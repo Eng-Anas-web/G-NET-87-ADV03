@@ -10,6 +10,11 @@
             #region Question 01
             //numbers.ForEach(n => Console.WriteLine(n));
             #endregion
+
+            #region Question 02
+            //Console.WriteLine(numbers.Count);
+            #endregion
+
             #endregion
 
         }
