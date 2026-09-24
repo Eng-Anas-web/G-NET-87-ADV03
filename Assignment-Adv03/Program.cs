@@ -82,6 +82,10 @@
             //bool result = leaderboard.ContainsKey(500);
             //Console.WriteLine(result);
             #endregion
+
+            #region Question 14
+            //Console.WriteLine(leaderboard.GetValueOrDefault(999));
+            #endregion
             #endregion
         }
     }
