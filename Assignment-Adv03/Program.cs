@@ -44,6 +44,11 @@
             //numbers.ForEach(n => Console.WriteLine(n));
             #endregion
 
+            #region Question 09
+            // bool result = numbers.Exists(n => n > 100);
+            //Console.WriteLine(result);
+            #endregion
+
 
             #endregion
 
