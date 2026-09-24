@@ -107,6 +107,19 @@
             #region Question  16
             phoneBook["Mahmoud"] = "0100850546410";
             #endregion
+
+            #region Question 17
+            //try
+            //{
+            //    phoneBook.Add("Ahmed", "01009429435");
+            //}
+            //catch(Exception ex)
+            //{
+            //    Console.WriteLine(ex);
+            //}
+            #endregion
+
+
             #endregion
         }
     }
