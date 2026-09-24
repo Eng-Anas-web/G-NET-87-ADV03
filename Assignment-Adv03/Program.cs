@@ -130,6 +130,19 @@
             //    Console.WriteLine("Faild");
             //}
             #endregion
+
+            #region Question 19
+            //bool res = phoneBook.ContainsKey("Ali");
+            //if(res == true)
+            //{
+            //    Console.WriteLine("Found");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Not Found");
+            //}
+            #endregion
+
             #endregion
         }
     }
