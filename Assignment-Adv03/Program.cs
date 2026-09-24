@@ -73,6 +73,11 @@
             //}
             #endregion
 
+            #region Question 12
+            //Console.WriteLine(leaderboard.First().Key);
+            //Console.WriteLine(leaderboard.First().Value);
+            #endregion
+
             #endregion
         }
     }
