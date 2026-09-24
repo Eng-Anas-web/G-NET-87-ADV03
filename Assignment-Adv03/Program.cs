@@ -33,6 +33,12 @@
             //Console.WriteLine(result);
             #endregion
 
+            #region Question 07
+            //List<int> resultnum = numbers.FindAll(n => n < 75);
+            //resultnum.ForEach(n => Console.WriteLine($"Falling : {n}"));
+
+            #endregion
+
 
             #endregion
 
