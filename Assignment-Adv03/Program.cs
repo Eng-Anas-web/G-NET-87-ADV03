@@ -59,13 +59,13 @@
             #endregion
 
             #region Depart 02
-            SortedDictionary<int, string> leaderboard = new SortedDictionary<int, string>()
-            {
-                [500] = "Ahmed",
-                [200] = "Sara",
-                [800] = "ALi",
-                [350] = "Mona"
-            };
+            //SortedDictionary<int, string> leaderboard = new SortedDictionary<int, string>()
+            //{
+            //    [500] = "Ahmed",
+            //    [200] = "Sara",
+            //    [800] = "ALi",
+            //    [350] = "Mona"
+            //};
             #region Question 11
             //foreach(KeyValuePair<int, string> pair in leaderboard)
             //{
@@ -93,6 +93,19 @@
             //{
             //    Console.WriteLine($"{pair.Key} = {pair.Value}");
             //}
+            #endregion
+            #endregion
+
+            #region Depart 03
+            Dictionary<string , string> phoneBook = new Dictionary<string, string>()
+            {
+                ["Ahmed"] =" 01009429435",
+                ["Anas"] = "01019510963",
+                ["Mohamed"] = "01108865123",
+                ["Amira"] = "01062108045"
+            };
+            #region Question  16
+            phoneBook["Mahmoud"] = "0100850546410";
             #endregion
             #endregion
         }
