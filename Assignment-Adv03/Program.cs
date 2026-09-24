@@ -119,7 +119,17 @@
             //}
             #endregion
 
-
+            #region Question 18
+            //bool res = phoneBook.TryAdd("Ahmed", "01009429435");
+            //if(res == true)
+            //{
+            //    Console.WriteLine("Add succesfull");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Faild");
+            //}
+            #endregion
             #endregion
         }
     }
