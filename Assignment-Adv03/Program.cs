@@ -39,6 +39,11 @@
 
             #endregion
 
+            #region Question 08
+            //numbers.RemoveAll(n => n < 75);
+            //numbers.ForEach(n => Console.WriteLine(n));
+            #endregion
+
 
             #endregion
 
