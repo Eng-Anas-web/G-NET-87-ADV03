@@ -15,6 +15,11 @@
             //Console.WriteLine(numbers.Count);
             #endregion
 
+            #region Question 03
+            //Console.WriteLine(numbers[0]);
+            #endregion
+
+
             #endregion
 
         }
