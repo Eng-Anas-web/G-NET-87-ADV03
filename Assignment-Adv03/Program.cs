@@ -86,6 +86,14 @@
             #region Question 14
             //Console.WriteLine(leaderboard.GetValueOrDefault(999));
             #endregion
+
+            #region Question 15
+            //leaderboard.Remove(200);
+            //foreach (KeyValuePair<int, string> pair in leaderboard)
+            //{
+            //    Console.WriteLine($"{pair.Key} = {pair.Value}");
+            //}
+            #endregion
             #endregion
         }
     }
