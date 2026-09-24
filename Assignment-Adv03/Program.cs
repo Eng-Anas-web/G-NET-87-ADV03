@@ -78,6 +78,10 @@
             //Console.WriteLine(leaderboard.First().Value);
             #endregion
 
+            #region Question 13 
+            //bool result = leaderboard.ContainsKey(500);
+            //Console.WriteLine(result);
+            #endregion
             #endregion
         }
     }
