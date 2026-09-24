@@ -23,6 +23,11 @@
             //Console.WriteLine(numbers[^1]);
             #endregion
 
+            #region Question 05
+            //numbers.Sort();
+            //numbers.ForEach(n => Console.WriteLine(n));
+            #endregion
+
 
             #endregion
 
