@@ -105,7 +105,7 @@
             //    ["Amira"] = "01062108045"
             //};
             #region Question  16
-            phoneBook["Mahmoud"] = "0100850546410";
+            //phoneBook["Mahmoud"] = "0100850546410";
             #endregion
 
             #region Question 17
@@ -158,6 +158,33 @@
             //The count is 2 because StringComparer.OrdinalIgnoreCase treats uppercase and lowercase letters as the same.
             #endregion
 
+            #region Question 21
+          //  HashSet<int> setA = new HashSet<int>() { 1, 2, 3, 4, 5 };
+          //  HashSet<int> setB = new HashSet<int>() { 4, 5, 6, 7, 8 };
+
+          //  HashSet<int> result = new HashSet<int>(setA);
+          //  result.UnionWith(setB);
+
+          //  foreach (var num in result)
+          //  {
+          //      Console.WriteLine(num);
+          //  }
+          //  Console.WriteLine("================================================");
+          //  result.IntersectWith(setB);
+          //  foreach (var num in result)
+          //  {
+          //      Console.WriteLine(num);
+          //  }
+          //  Console.WriteLine("================================================");
+          //result.ExceptWith(setA);
+          //  foreach (var num in result)
+          //  {
+          //      Console.WriteLine(num);
+          //  }
+          //  Console.WriteLine("================================================");
+          //  bool res = result.IsSubsetOf(setB);
+          //  Console.WriteLine(res);
+            #endregion
             #endregion
         }
     }
