@@ -19,6 +19,10 @@
             //Console.WriteLine(numbers[0]);
             #endregion
 
+            #region Question 04
+            //Console.WriteLine(numbers[^1]);
+            #endregion
+
 
             #endregion
 
