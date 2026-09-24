@@ -97,13 +97,13 @@
             #endregion
 
             #region Depart 03
-            Dictionary<string , string> phoneBook = new Dictionary<string, string>()
-            {
-                ["Ahmed"] =" 01009429435",
-                ["Anas"] = "01019510963",
-                ["Mohamed"] = "01108865123",
-                ["Amira"] = "01062108045"
-            };
+            //Dictionary<string , string> phoneBook = new Dictionary<string, string>()
+            //{
+            //    ["Ahmed"] =" 01009429435",
+            //    ["Anas"] = "01019510963",
+            //    ["Mohamed"] = "01108865123",
+            //    ["Amira"] = "01062108045"
+            //};
             #region Question  16
             phoneBook["Mahmoud"] = "0100850546410";
             #endregion
@@ -141,6 +141,21 @@
             //{
             //    Console.WriteLine("Not Found");
             //}
+            #endregion
+
+            #endregion
+
+            #region Depart 04
+
+            #region Question 20
+            //HashSet<string> emails = new HashSet<string>(StringComparer.OrdinalIgnoreCase)
+            //{
+            //    "ahmed@test.com",
+            //    "AHMED@test.com",
+            //    "sara@test.com",
+            //    "Sara@Test.Com"
+            //};
+            //The count is 2 because StringComparer.OrdinalIgnoreCase treats uppercase and lowercase letters as the same.
             #endregion
 
             #endregion
