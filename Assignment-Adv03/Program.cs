@@ -28,6 +28,11 @@
             //numbers.ForEach(n => Console.WriteLine(n));
             #endregion
 
+            #region Question 06
+            //int result = numbers.Find(n => n > 90);
+            //Console.WriteLine(result);
+            #endregion
+
 
             #endregion
 
